@@ -1,37 +1,37 @@
 {
-  "name": "Depalepi",
-  "short_name": "Depalepi",
-  "start_url": "https://www.depalepi.com/",
+  "name": "De Palepi Blog",
+  "short_name": "De Palepi Blog",
+  "start_url": "https://www.sumurtekno.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "Depalepi Share media untuk berbagi ke semua orang melalui tulisan yang membahas Teknologi, Kehidupan Dunia,Inspirasi, Wawasan, Tips, Trik, Dll.",
+  "description": "Sumur Teknologi - Official Blog Mas Fahlefi  Membahas semua tentang blogging, Teknologi terbaru, Informasi, Android, Media Sharing dan Aplikasi.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-Ywlg8mbwyqA/XK7czREwqHI/AAAAAAAAA-E/Hgg3L25TvNARWwz1lhH70YGTPFoP9hM8wCLcBGAs/s1600/48.png",
+    "src": "https://1.bp.blogspot.com/-L85BtK3Xq1w/XLFtUuGhEPI/AAAAAAAAA_g/wz-dPWWlHZ4_oqo-YsJOLM7sPfHCJU-dQCLcBGAs/s1600/48%2Bst.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-Aw3EehyviHM/XK7czzI6dgI/AAAAAAAAA-M/sYQnoKeF3C8r79nZ50a5YLkLs_2OdrHWACLcBGAs/s1600/72.png",
+    "src": "https://1.bp.blogspot.com/-L_z7HxYcwMc/XLFtVYNuxwI/AAAAAAAAA_s/EdJhcNeawIwhCL7HJAIiFhd0LVY_6Pq4gCLcBGAs/s1600/72%2Bst.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-FRGsfkrhMqY/XK7czzFywcI/AAAAAAAAA-Q/v3wJBCFufhkcq44rp32iLHblQW-7KN1jgCLcBGAs/s1600/96.png",
+    "src": "https://3.bp.blogspot.com/-Y1wmRwok42U/XLFtViruQGI/AAAAAAAAA_w/bOOc--dAWqY_IhOj2yJZJC-VgEr1beLXwCLcBGAs/s1600/96%2Bst.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-WlijYM1_UJs/XK7cykgj-II/AAAAAAAAA-A/X_Ma-g8ttLskI5EyfAX6velbxCOl6ybPwCLcBGAs/s1600/144.png",
+    "src": "https://2.bp.blogspot.com/-k_jpdX2mzJw/XLFtTsJMviI/AAAAAAAAA_Y/-l7_vrjKoEsrju7gXNQJJ6n6tHCQ1ZbqgCLcBGAs/s1600/144%2Bst.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-yCPy1WVl9fY/XK7cyolD72I/AAAAAAAAA94/6YHRGC3bbV8L7iBBGPWq5UMFKOYckzpRQCLcBGAs/s1600/168.png",
+    "src": "https://4.bp.blogspot.com/-DQc_rcdUfoE/XLFtTR1w_nI/AAAAAAAAA_Q/POmNG48FsHU3H2Utt_HdlQMdo0JQIqPjACLcBGAs/s1600/168%2Bst.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-s-Y6G3IS-aw/XK7cyiE5TuI/AAAAAAAAA98/NxP3OkljcR8OygHBIWtqvW8v9AUSHaQ2gCLcBGAs/s1600/192.png",
+    "src": "https://4.bp.blogspot.com/-7Mv7knVfRk4/XLFtTaaqSCI/AAAAAAAAA_U/3jO0_M4hY3kecCbAA8kxIt0LaGllHPSPACLcBGAs/s1600/192%2Bst.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-TTF0ZD31A5Y/XK7czgRPFeI/AAAAAAAAA-I/Kn9VDo972YkJqTNXKEwSGsu5ahMOuhl9QCLcBGAs/s1600/512.png",
+    "src": "https://2.bp.blogspot.com/-2FiPt2FqIcc/XLFtUmg09PI/AAAAAAAAA_k/4YAqytho-vMzoNlMuTp7m-2hRy2qIRh8ACLcBGAs/s1600/512%2Bst.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
